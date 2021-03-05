@@ -1,2 +1,2 @@
 # aquaq-pamsoc
-Solutions to the AquaQ-PAMsoc coding challenge problems
+Solutions to the AquaQ-PAMSOC coding challenge problems
